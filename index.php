@@ -36,9 +36,7 @@
         </nav>
     </div>
     </header>
-    <div id="main-image">
-        <p> BIENVENU A LA DECOUVERTE DE VOS PREFERENCES</p>
-    </div>
+    <img width="99%" height="30%" src="ressources/images/main.jpg" alt="failed to load image" >
     <div id="offres">
          <hr>
          <h3> BON PLANS DU MOMENTS </h3>

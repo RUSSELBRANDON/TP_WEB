@@ -30,9 +30,8 @@ b{
     color: blue;
 }
 #main-image{
+    width: 95%;
     height: 800px;
-    background: url(./images/main.jpg) no-repeat;
-    background-size: cover;
 }
 #main-image p{
     font-size: 50px;

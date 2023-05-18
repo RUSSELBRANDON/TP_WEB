@@ -36,46 +36,44 @@
         </nav>
     </div>
     </header>
-    <div id="main-image">
-        <p> BIENVENU A LA DECOUVERTE DE VOS PREFERENCES</p>
-    </div>
+    <img width="99%" height="30%" src="ressources/images/main.jpg" alt="failed to load image" >
     <div id="offres">
          <hr>
          <h3> BON PLANS DU MOMENTS </h3>
          <hr>
-         <article style="background-image: url(./images/enfant.jpg);">
+         <article style="background-image: url(./ressources/images/enfant.jpg);">
             <h6> REEBOOK </h6>
             <small> classic-royal-flag_004</small>
         </article>
-        <article style="background-image: url(./images/classic-flag_003.jpg);">
+        <article style="background-image: url(./ressources/images/classic-flag_003.jpg);">
             <h6>REEBOOK</h6>
             <small> classic-flag_003</small>
         </article>
-        <article style="background-image: url(./images/classic-kids_006.jpg);">
+        <article style="background-image: url(./ressources/images/classic-kids_006.jpg);">
             <h6>REEBOOK</h6>
             <small> classic-kids_006</small>
         </article> 
-        <article style="background:url(./images/classic-royal-flag.jpg);">
+        <article style="background:url(./ressources/images/classic-royal-flag.jpg);">
             <h6> REEBOOK </h6>
             <small> classic-royal-flag</small>
         </article>
-        <article style="background:url(./images/classic-royal-flag_004.jpg);">
+        <article style="background:url(./ressources/images/classic-royal-flag_004.jpg);">
             <h6> REEBOOK </h6>
             <small> classic-royal-flag_004</small>
         </article>
-        <article style="background:url(./images/royal-flag.jpg);">
+        <article style="background:url(./ressources/images/royal-flag.jpg);">
             <h6> REEBOOK </h6>
             <small> classic-flag_007</small>
         </article>
-        <article style="background-image: url(./images/boncoin.jpg);">
+        <article style="background-image: url(./ressources/images/boncoin.jpg);">
             <h6> REEBOOK </h6>
             <small> boncoin</small>
         </article>
-        <article style="background-image: url(./images/montante2.jpg);">
+        <article style="background-image: url(./ressources/images/montante2.jpg);">
             <h6> REEBOOK </h6>
             <small> montante</small>
         </article>
-        <article style="background-image: url(./images/deauville-classic_003.jpg);">
+        <article style="background-image: url(./ressources/images/deauville-classic_003.jpg);">
             <h6> REEBOOK </h6>
             <small> classic-royal-flag_004</small>
         </article>

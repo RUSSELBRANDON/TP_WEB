@@ -31,7 +31,7 @@ b{
 }
 #main-image{
     height: 800px;
-    background: url(./images/main.jpg) no-repeat;
+    background: url(./ressources/images/main.jpg) no-repeat; 
     background-size: cover;
 }
 #main-image p{
